@@ -5,7 +5,7 @@
 "sites":[
 {"key":"18av_open","name":"18av貓","type":3,"api":"./cat/js/18av_open.js","style":{"type":"rect","ratio":1.485}},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
-{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
+{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.99},"timeout":60},
 {"key":"量子","name":"三级","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]}
 ]
 }
