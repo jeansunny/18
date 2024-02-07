@@ -1,9 +1,7 @@
 {
 "spider":"./jar/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74",
-"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
-
+"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"}
 ],
-"wallpaper":"https://liu.chuqiuyu.workers.dev",
 "sites":[
 {"key":"18av_open","name":"18av貓","type":3,"api":"./cat/js/18av_open.js","style":{"type":"rect","ratio":1.485}},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
