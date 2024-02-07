@@ -1,6 +1,15 @@
 {
   "sites": [
-      {
+    {
+      "key": "18av_open",
+      "name": "18av貓",
+      "type": 3,
+      "api": "./cat/js/18av_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_JavDb",
       "name": "JavDb",
       "type": 3,
@@ -17,15 +26,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "18av_open",
-      "name": "18av貓",
-      "type": 3,
-      "api": "./cat/js/18av_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "泥巴",
@@ -48,51 +48,6 @@
       "categories": [
         "伦理片"
       ]
-    },
-    {
-      "key": "wmcj8.com",
-      "name": "成人05",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "apilj.com",
-      "name": "成人06",
-      "type": 1,
-      "api": "http://apilj.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "91md.me",
-      "name": "成人07",
-      "type": 1,
-      "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "dadiapi.com",
-      "name": "成人09",
-      "type": 0,
-      "api": "http://dadiapi.com/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "bttcj.com",
-      "name": "成人12",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "push_agent",
