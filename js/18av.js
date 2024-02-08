@@ -1,7 +1,7 @@
 var rule = {
     title:'18av',
     host:'https://mjv002.com/',
-    url:'/zh/fyclass/all/fypage.html',
+    url:'/zh/chinese_random/all/fypage.html',
     headers:{
         'User-Agent':'MOBILE_UA'
     },
