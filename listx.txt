@@ -1,4 +1,8 @@
-CMMPZG,http://cord-cutter.net:8080/YT6bvC/100111/159951
+DMKDZE,http://cord-cutter.net:8080/YT6bvC/100111/159976
+ZCXGEA,http://cord-cutter.net:8080/YT6bvC/100111/160011
+WBBGLI,http://cord-cutter.net:8080/YT6bvC/100111/160026
+LBOJIO,http://cord-cutter.net:8080/YT6bvC/100111/159958
+GNBTPW,http://cord-cutter.net:8080/YT6bvC/100111/160076
 AGMWYZ,http://cord-cutter.net:8080/YT6bvC/100111/159952
 GEPIMU,http://cord-cutter.net:8080/YT6bvC/100111/159953
 BSTWEL,http://cord-cutter.net:8080/YT6bvC/100111/159954
@@ -22,7 +26,6 @@ UNHVVA,http://cord-cutter.net:8080/YT6bvC/100111/159972
 TEFZLU,http://cord-cutter.net:8080/YT6bvC/100111/159973
 OLRIWV,http://cord-cutter.net:8080/YT6bvC/100111/159974
 XAXPGY,http://cord-cutter.net:8080/YT6bvC/100111/159975
-DMKDZE,http://cord-cutter.net:8080/YT6bvC/100111/159976
 HLYFMB,http://cord-cutter.net:8080/YT6bvC/100111/159977
 ZXKGVT,http://cord-cutter.net:8080/YT6bvC/100111/159979
 UELUXD,http://cord-cutter.net:8080/YT6bvC/100111/159980
@@ -54,7 +57,6 @@ AERRAE,http://cord-cutter.net:8080/YT6bvC/100111/160007
 EAFDXF,http://cord-cutter.net:8080/YT6bvC/100111/160008
 ITSHLU,http://cord-cutter.net:8080/YT6bvC/100111/160009
 LATIID,http://cord-cutter.net:8080/YT6bvC/100111/160010
-ZCXGEA,http://cord-cutter.net:8080/YT6bvC/100111/160011
 DKNBIS,http://cord-cutter.net:8080/YT6bvC/100111/160012
 OSQUCX,http://cord-cutter.net:8080/YT6bvC/100111/160013
 YXYLRN,http://cord-cutter.net:8080/YT6bvC/100111/160014
@@ -68,7 +70,6 @@ RAOKIW,http://cord-cutter.net:8080/YT6bvC/100111/160022
 CNKFMQ,http://cord-cutter.net:8080/YT6bvC/100111/160023
 URTIAQ,http://cord-cutter.net:8080/YT6bvC/100111/160024
 BGNQCT,http://cord-cutter.net:8080/YT6bvC/100111/160025
-WBBGLI,http://cord-cutter.net:8080/YT6bvC/100111/160026
 HWUQBQ,http://cord-cutter.net:8080/YT6bvC/100111/160027
 EVAIJC,http://cord-cutter.net:8080/YT6bvC/100111/160029
 XKTKJE,http://cord-cutter.net:8080/YT6bvC/100111/160030
@@ -116,7 +117,6 @@ YDTXPF,http://cord-cutter.net:8080/YT6bvC/100111/160072
 BKAHHA,http://cord-cutter.net:8080/YT6bvC/100111/160073
 SZAHLP,http://cord-cutter.net:8080/YT6bvC/100111/160074
 DNFIHB,http://cord-cutter.net:8080/YT6bvC/100111/160075
-GNBTPW,http://cord-cutter.net:8080/YT6bvC/100111/160076
 FKPUQA,http://cord-cutter.net:8080/YT6bvC/100111/160077
 BEUAQP,http://cord-cutter.net:8080/YT6bvC/100111/160078
 PSGFEK,http://cord-cutter.net:8080/YT6bvC/100111/160079
@@ -139,7 +139,6 @@ DGLRDZ,http://cord-cutter.net:8080/YT6bvC/100111/160095
 GRXMPG,http://cord-cutter.net:8080/YT6bvC/100111/160096
 OCSXCE,http://cord-cutter.net:8080/YT6bvC/100111/160097
 WMEVQG,http://cord-cutter.net:8080/YT6bvC/100111/160098
-LBOJIO,http://cord-cutter.net:8080/YT6bvC/100111/159958
 YAUNLW,http://cord-cutter.net:8080/YT6bvC/100111/159986
 UPWGKF,http://cord-cutter.net:8080/YT6bvC/100111/160017
 VGGCMC,http://cord-cutter.net:8080/YT6bvC/100111/160028
