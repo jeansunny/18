@@ -4,7 +4,6 @@
 ],
 "sites":[
 {"key":"18av_open","name":"18av貓","type":3,"api":"./cat/js/18av_open.js","style":{"type":"rect","ratio":1.485}},
-{"key":"drpy_js_18av","name":"18av","type":3,"api":"./lib/drpy2.min.js","ext":"./js/18av.js"},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.395},"timeout":60},
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.395},"timeout":60},
 {"key":"drpy_js_朱古力","name":"热门","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js","style":{"type":"rect","ratio":1.395}},
